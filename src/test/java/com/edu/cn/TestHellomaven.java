@@ -12,4 +12,13 @@ public class TestHellomaven {
         int res=hellomaven.add(1,3);
         Assert.assertEquals(4,res);
     }
+
+    @Test
+    public void test2()
+    {
+        System.out.println("测试add方法2");
+        hellomaven hellomaven=new hellomaven();
+        int res=hellomaven.add(4,13);
+        Assert.assertEquals(17,res);
+    }
 }
