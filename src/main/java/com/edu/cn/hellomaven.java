@@ -11,5 +11,6 @@ public class hellomaven {
         System.out.println("1+3="+hellomaven.add(1,3));
         System.out.println("你好");
         System.out.println("你好2");
+        System.out.println("你好3");
     }
 }
