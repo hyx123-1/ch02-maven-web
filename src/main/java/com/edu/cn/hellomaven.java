@@ -14,5 +14,6 @@ public class hellomaven {
         System.out.println("你好3");
         System.out.println("你好4");
         System.out.println("dev01 test");
+        System.out.println("hot-fix test");
     }
 }
